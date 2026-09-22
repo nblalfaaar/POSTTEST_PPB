@@ -38,7 +38,6 @@ class ProductCard extends StatelessWidget {
   static const Color textDark = Color(0xFF181C1F);
   static const Color textGrey = Color(0xFF44474C);
 
-  // Warna transparan manual.
   static const Color navy85 = Color(0xD90F1C2C);
   static const Color white90 = Color(0xE6FFFFFF);
 
